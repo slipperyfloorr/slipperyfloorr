@@ -14,8 +14,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | 
-| Network Traffic Monitoring and Attack Detection | 
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/Test-MyDFIR/Detection-Lab/blob/main">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection| <a href="https://github.com/Test-MyDFIR/Detection-Lab/blob/main">Detection Lab</a>| 
 | Security Automation with Shuffle SOAR         | 
 | Incident Response Planning and Execution      | 
 | Case Management with TheHive                  | 
@@ -51,5 +51,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/Test-MyDFIR/Detection-Lab/blob/main">Detection Lab</a>
 - SOC Automation Project
